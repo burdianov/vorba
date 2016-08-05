@@ -6,4 +6,7 @@
     <string name="vorba_register">Vorba! Register</string>
     <string name="facebook_log_in">Facebook Log in</string>
     <string name="google_log_in">Google Log in</string>
+    <string name="log_in">Log in</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
 </resources>
