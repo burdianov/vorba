@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Vorba</string>
     <string name="login">Login</string>
+    <string name="vorba">VORBA!</string>
+    <string name="vorba_log_in">Vorba! Log in</string>
+    <string name="vorba_register">Vorba! Register</string>
+    <string name="facebook_log_in">Facebook Log in</string>
+    <string name="google_log_in">Google Log in</string>
 </resources>
